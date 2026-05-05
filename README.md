@@ -28,7 +28,7 @@
 
 ## 🎬 Demo
 
-> 📹 **[Watch the full demo on YouTube](YOUR_YOUTUBE_LINK_HERE)** (2–3 min)
+> 📹 **[Watch the full demo on YouTube](https://youtu.be/wAtNrncfsew)** (2–3 min)
 
 ```
   ╔════════════════════════════════════════════════════╗
@@ -406,42 +406,6 @@ Environment variables (set in `.env`):
 | `DEBUG` | `false` | Set to `true` to see raw model output |
 
 ---
-
-## 📊 How It Scores
-
-| Criterion | Max Marks | How We Excel |
-|---|---|---|
-| **GitHub Repository** | 2 | Clean modular architecture, comprehensive README, proper `.gitignore`, `.env.example` |
-| **YouTube Demo Video** | 2 | Live CLI demo showing agent reasoning, tool calls, and browser output |
-| **Agent Loop & Reasoning** | 2 | Full ReAct loop with 20-60 steps, self-healing, protocol enforcement, multi-THINK reasoning |
-| **Quality of Cloned Website** | 2 | Pixel-accurate using real Puppeteer data, exact colors/fonts/spacing, responsive, animated |
-| **Code Quality & Documentation** | 2 | 11 modular tools, JSDoc comments, security guards, error handling, 450+ line system prompt |
-
----
-
-## 🧪 Testing
-
-```bash
-# Test 1: Basic clone
-You › Clone the Scaler Academy website
-# ✓ Full website generated and opened in browser
-
-# Test 2: Multi-turn follow-up  
-You › Add a new testimonials section
-# ✓ Agent reads existing HTML, patches surgically
-
-# Test 3: Error recovery
-# Manually delete style.css, then:
-You › Fix the styling
-# ✓ Agent detects missing file and regenerates
-
-# Test 4: Adaptability
-You › Make it a futuristic neon theme
-# ✓ Agent adapts CSS while preserving structure
-```
-
----
-
 ## 📦 Dependencies
 
 | Package | Version | Purpose |
@@ -455,14 +419,3 @@ You › Make it a futuristic neon theme
 | `open` | ^9.1.0 | Open files in default browser |
 
 ---
-
-## 📄 License
-
-MIT © 2026
-
----
-
-<p align="center">
-  <b>Built with 🧠 AI + 🎯 Precision</b><br>
-  <sub>Not just another assignment — a production-grade autonomous agent.</sub>
-</p>
