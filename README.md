@@ -200,8 +200,8 @@ scaler-agent/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/scaler-agent.git
-cd scaler-agent
+git clone https://github.com/Ujjwaljain16/CLI---Code---Agent.git
+cd CLI---Code---Agent
 
 # 2. Install dependencies
 npm install
@@ -452,7 +452,6 @@ You › Make it a futuristic neon theme
 | `ora` | ^8.0.1 | Terminal spinners |
 | `dotenv` | ^16.3.1 | Environment variable loading |
 | `node-fetch` | ^3.3.2 | HTTP requests for asset downloading |
-| `cheerio` | ^1.2.0 | HTML parsing utilities |
 | `open` | ^9.1.0 | Open files in default browser |
 
 ---
