@@ -1,0 +1,888 @@
+{
+  "_meta": {
+    "url": "https://www.scaler.com/",
+    "extractedAt": "2026-05-04T18:34:50.846Z",
+    "note": "All values are exact browser-computed measurements. Use them as-is. Do NOT invent or substitute any value."
+  },
+  "techStack": [
+    "Next.js",
+    "React"
+  ],
+  "colors": {
+    "background": "rgb(255, 255, 255)",
+    "text": "rgb(0, 0, 0)",
+    "accent": "rgba(0, 0, 0, 0)",
+    "accentText": "rgb(0, 0, 0)",
+    "mutedText": "rgb(0, 85, 255)",
+    "sections": [
+      {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "backgroundColor": "rgb(0, 35, 110)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ]
+  },
+  "typography": {
+    "displayFont": "clashGrotesk, \"clashGrotesk Fallback\", ui-serif, Georgia, \"Times New Roman\", serif",
+    "bodyFont": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "scale": {
+      "h1": {
+        "fontSize": "90px",
+        "fontWeight": "500",
+        "lineHeight": "90px",
+        "fontFamily": "clashGrotesk, \"clashGrotesk Fallback\", ui-serif, Georgia, \"Times New Roman\", serif",
+        "color": "rgb(1, 24, 69)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "border": "0px solid rgb(228, 228, 228)",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "display": "block",
+        "textAlign": "start",
+        "fontSizePx": 90,
+        "lineHeightPx": 90
+      },
+      "h2": {
+        "fontSize": "40px",
+        "fontWeight": "500",
+        "lineHeight": "48px",
+        "fontFamily": "clashGrotesk, \"clashGrotesk Fallback\", ui-serif, Georgia, \"Times New Roman\", serif",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "border": "0px solid rgb(228, 228, 228)",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "display": "block",
+        "textAlign": "start",
+        "fontSizePx": 40,
+        "lineHeightPx": 48
+      },
+      "h3": {
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "lineHeight": "30px",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "color": "rgb(1, 24, 69)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "border": "0px solid rgb(228, 228, 228)",
+        "letterSpacing": "-0.6px",
+        "textTransform": "none",
+        "display": "block",
+        "textAlign": "start",
+        "fontSizePx": 20,
+        "lineHeightPx": 30
+      },
+      "body": {
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "color": "rgb(33, 33, 33)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "border": "0px solid rgb(228, 228, 228)",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "display": "block",
+        "textAlign": "center"
+      }
+    }
+  },
+  "spacing": {
+    "detectedScale": [
+      8,
+      12,
+      64,
+      96
+    ],
+    "sectionPaddings": [
+      "0px",
+      "0px",
+      "0px",
+      "0px",
+      "0px",
+      "0px"
+    ],
+    "note": "Use detectedScale values for margins/gaps. Use sectionPaddings for section padding."
+  },
+  "layout": {
+    "containerWidth": 997,
+    "maxWidth": "none",
+    "sectionCount": 6,
+    "patterns": [
+      {
+        "sectionIndex": 0,
+        "display": "block",
+        "flexDirection": "row",
+        "justifyContent": "normal",
+        "alignItems": "normal",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "padding": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "sectionIndex": 1,
+        "display": "block",
+        "flexDirection": "row",
+        "justifyContent": "normal",
+        "alignItems": "normal",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "padding": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "sectionIndex": 2,
+        "display": "block",
+        "flexDirection": "row",
+        "justifyContent": "normal",
+        "alignItems": "normal",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "padding": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "sectionIndex": 3,
+        "display": "block",
+        "flexDirection": "row",
+        "justifyContent": "normal",
+        "alignItems": "normal",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "padding": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "sectionIndex": 4,
+        "display": "block",
+        "flexDirection": "row",
+        "justifyContent": "normal",
+        "alignItems": "normal",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "padding": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "sectionIndex": 5,
+        "display": "block",
+        "flexDirection": "row",
+        "justifyContent": "normal",
+        "alignItems": "normal",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "padding": "0px",
+        "backgroundColor": "rgb(0, 35, 110)"
+      }
+    ],
+    "heroTextMetrics": {
+      "h1MaxWidth": "none",
+      "h1TextAlign": "start",
+      "h1OffsetWidth": "997px",
+      "heroTextAlign": "start",
+      "heroJustify": "normal",
+      "heroAlignItems": "normal"
+    }
+  },
+  "typographySystem": {
+    "fontWeightHierarchy": [
+      {
+        "weight": "400",
+        "count": 107
+      },
+      {
+        "weight": "500",
+        "count": 12
+      },
+      {
+        "weight": "600",
+        "count": 1
+      }
+    ],
+    "note": "fontWeightHierarchy[0] is the most common weight (body), highest values are used for headings."
+  },
+  "shadowSystem": {
+    "shadows": [
+      "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+      "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(26, 26, 26, 0.05) 0px 1px 2px 0px"
+    ],
+    "borders": [
+      "1px solid rgb(1, 26, 83)",
+      "1px solid rgba(0, 0, 0, 0)",
+      "1px solid rgb(179, 209, 255)",
+      "1px solid rgb(43, 122, 255)"
+    ],
+    "note": "Use shadows[0] for cards, shadows that contain blur are for modals/dropdowns."
+  },
+  "components": {
+    "navbar": {
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": "116px",
+      "position": "static",
+      "borderBottom": "0px solid rgb(228, 228, 228)",
+      "backdropFilter": "none",
+      "padding": "0px",
+      "zIndex": "auto",
+      "links": []
+    },
+    "hero": {
+      "hasH1": true,
+      "hasSubtext": true,
+      "buttonCount": 10,
+      "textAlign": "start",
+      "background": "rgba(0, 0, 0, 0)",
+      "minHeight": "0px",
+      "layout": "block",
+      "flexDir": "row",
+      "gridCols": "none"
+    },
+    "buttons": [
+      {
+        "text": "Login",
+        "tag": "a",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgb(1, 26, 83)",
+        "padding": "0px 10px",
+        "borderRadius": "0px",
+        "fontWeight": "500",
+        "fontSize": "12px",
+        "border": "1px solid rgb(1, 26, 83)",
+        "boxShadow": "none",
+        "textTransform": "none"
+      },
+      {
+        "text": "PLACEMENT REPORT",
+        "tag": "a",
+        "backgroundColor": "rgb(0, 76, 229)",
+        "color": "rgb(255, 255, 255)",
+        "padding": "0px 40px",
+        "borderRadius": "0px",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "border": "1px solid rgba(0, 0, 0, 0)",
+        "boxShadow": "none",
+        "textTransform": "uppercase"
+      },
+      {
+        "text": "Login",
+        "tag": "a",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgb(1, 26, 83)",
+        "padding": "0px 10px",
+        "borderRadius": "0px",
+        "fontWeight": "500",
+        "fontSize": "12px",
+        "border": "1px solid rgb(1, 26, 83)",
+        "boxShadow": "none",
+        "textTransform": "none"
+      },
+      {
+        "text": "PLACEMENT REPORT",
+        "tag": "a",
+        "backgroundColor": "rgb(0, 76, 229)",
+        "color": "rgb(255, 255, 255)",
+        "padding": "0px 40px",
+        "borderRadius": "0px",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "border": "1px solid rgba(0, 0, 0, 0)",
+        "boxShadow": "none",
+        "textTransform": "uppercase"
+      },
+      {
+        "text": "REQUEST A CALLBACK",
+        "tag": "a",
+        "backgroundColor": "rgb(0, 76, 229)",
+        "color": "rgb(255, 255, 255)",
+        "padding": "0px 40px",
+        "borderRadius": "0px",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "border": "1px solid rgba(0, 0, 0, 0)",
+        "boxShadow": "none",
+        "textTransform": "uppercase"
+      }
+    ]
+  },
+  "sections": {
+    "header": {
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "height": "116px",
+        "position": "static",
+        "borderBottom": "0px solid rgb(228, 228, 228)",
+        "backdropFilter": "none",
+        "padding": "0px",
+        "zIndex": "auto"
+      },
+      "isSticky": false,
+      "hasBlur": false,
+      "logo": null,
+      "navLinks": [],
+      "ctaButtons": []
+    },
+    "hero": {
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "minHeight": "0px",
+        "padding": "0px",
+        "display": "block",
+        "flexDirection": "row",
+        "justifyContent": "normal",
+        "alignItems": "normal",
+        "textAlign": "start",
+        "gridTemplateColumns": "none"
+      },
+      "h1": {
+        "text": "Become the Professional Built for the Next Decade in AI.",
+        "fontSize": "90px",
+        "fontWeight": "500",
+        "lineHeight": "90px",
+        "color": "rgb(1, 24, 69)",
+        "fontFamily": "clashGrotesk, \"clashGrotesk Fallback\", ui-serif, Georgia, \"Times New Roman\", serif",
+        "maxWidth": "none",
+        "textAlign": "start"
+      },
+      "subheadings": [],
+      "paragraphs": [
+        {
+          "text": "Become the Professional Built for the Next Decade in AI.",
+          "fontSize": "90px",
+          "color": "rgb(1, 24, 69)"
+        },
+        {
+          "text": "The investment that compounds.\nStrong technical foundations, AI integrated at every stage, and a curriculum that evolves as the market does",
+          "fontSize": "18px",
+          "color": "rgb(33, 33, 33)"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "REQUEST A CALLBACK",
+          "backgroundColor": "rgb(0, 76, 229)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "0px 40px",
+          "borderRadius": "0px",
+          "border": "1px solid rgba(0, 0, 0, 0)",
+          "fontWeight": "600",
+          "fontSize": "14px"
+        },
+        {
+          "text": "BOOK FREE LIVE CLASS",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(1, 26, 83)",
+          "padding": "0px 40px",
+          "borderRadius": "0px",
+          "border": "1px solid rgb(1, 26, 83)",
+          "fontWeight": "600",
+          "fontSize": "14px"
+        }
+      ],
+      "images": []
+    },
+    "footer": {
+      "styles": {
+        "backgroundColor": "rgb(250, 250, 250)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px"
+      },
+      "logo": {
+        "src": "https://www.scaler.com/storyblok-assets/f/290352327034910/190x40/762eb27df8/scaler-logo.svg?dpl=dpl_3M5E8XRMv7KRrLhBXWeW8ipFgzhe",
+        "alt": "Logo"
+      },
+      "columns": [
+        {
+          "heading": "Explore Scaler",
+          "links": [
+            {
+              "text": "Modern Software and AI Engineering",
+              "href": "/academy/"
+            },
+            {
+              "text": "Modern Data Science and ML with Specialisation in AI",
+              "href": "/data-science-course/"
+            },
+            {
+              "text": "DevOps, Cloud & AI Platform Engineering",
+              "href": "/devops-course/"
+            },
+            {
+              "text": "Advanced AI & Machine Learning with Agentic AI",
+              "href": "/ai-machine-learning-course/"
+            },
+            {
+              "text": "AI Engineering Advanced Certification by IIT- Roorkee CEC",
+              "href": "/iit-roorkee-advanced-ai-engineering-course/"
+            },
+            {
+              "text": "Online PGP in Business and AI",
+              "href": "/online-pgp-in-business-and-ai"
+            },
+            {
+              "text": "Masters in Advanced AI & Machine Learning",
+              "href": "/neovarsity/v2/"
+            },
+            {
+              "text": "Masters in Software Development",
+              "href": "/neovarsity"
+            }
+          ]
+        },
+        {
+          "heading": "Explore Scaler",
+          "links": [
+            {
+              "text": "Modern Software and AI Engineering",
+              "href": "/academy/"
+            },
+            {
+              "text": "Modern Data Science and ML with Specialisation in AI",
+              "href": "/data-science-course/"
+            },
+            {
+              "text": "DevOps, Cloud & AI Platform Engineering",
+              "href": "/devops-course/"
+            },
+            {
+              "text": "Advanced AI & Machine Learning with Agentic AI",
+              "href": "/ai-machine-learning-course/"
+            },
+            {
+              "text": "AI Engineering Advanced Certification by IIT- Roorkee CEC",
+              "href": "/iit-roorkee-advanced-ai-engineering-course/"
+            },
+            {
+              "text": "Online PGP in Business and AI",
+              "href": "/online-pgp-in-business-and-ai"
+            },
+            {
+              "text": "Masters in Advanced AI & Machine Learning",
+              "href": "/neovarsity/v2/"
+            },
+            {
+              "text": "Masters in Software Development",
+              "href": "/neovarsity"
+            }
+          ]
+        },
+        {
+          "heading": "Explore Scaler",
+          "links": [
+            {
+              "text": "Modern Software and AI Engineering",
+              "href": "/academy/"
+            },
+            {
+              "text": "Modern Data Science and ML with Specialisation in AI",
+              "href": "/data-science-course/"
+            },
+            {
+              "text": "DevOps, Cloud & AI Platform Engineering",
+              "href": "/devops-course/"
+            },
+            {
+              "text": "Advanced AI & Machine Learning with Agentic AI",
+              "href": "/ai-machine-learning-course/"
+            },
+            {
+              "text": "AI Engineering Advanced Certification by IIT- Roorkee CEC",
+              "href": "/iit-roorkee-advanced-ai-engineering-course/"
+            },
+            {
+              "text": "Online PGP in Business and AI",
+              "href": "/online-pgp-in-business-and-ai"
+            },
+            {
+              "text": "Masters in Advanced AI & Machine Learning",
+              "href": "/neovarsity/v2/"
+            },
+            {
+              "text": "Masters in Software Development",
+              "href": "/neovarsity"
+            }
+          ]
+        },
+        {
+          "heading": "Explore Scaler",
+          "links": [
+            {
+              "text": "Modern Software and AI Engineering",
+              "href": "/academy/"
+            },
+            {
+              "text": "Modern Data Science and ML with Specialisation in AI",
+              "href": "/data-science-course/"
+            },
+            {
+              "text": "DevOps, Cloud & AI Platform Engineering",
+              "href": "/devops-course/"
+            },
+            {
+              "text": "Advanced AI & Machine Learning with Agentic AI",
+              "href": "/ai-machine-learning-course/"
+            },
+            {
+              "text": "AI Engineering Advanced Certification by IIT- Roorkee CEC",
+              "href": "/iit-roorkee-advanced-ai-engineering-course/"
+            },
+            {
+              "text": "Online PGP in Business and AI",
+              "href": "/online-pgp-in-business-and-ai"
+            },
+            {
+              "text": "Masters in Advanced AI & Machine Learning",
+              "href": "/neovarsity/v2/"
+            },
+            {
+              "text": "Masters in Software Development",
+              "href": "/neovarsity"
+            }
+          ]
+        },
+        {
+          "heading": null,
+          "links": [
+            {
+              "text": "Modern Software and AI Engineering",
+              "href": "/academy/"
+            },
+            {
+              "text": "Modern Data Science and ML with Specialisation in AI",
+              "href": "/data-science-course/"
+            },
+            {
+              "text": "DevOps, Cloud & AI Platform Engineering",
+              "href": "/devops-course/"
+            },
+            {
+              "text": "Advanced AI & Machine Learning with Agentic AI",
+              "href": "/ai-machine-learning-course/"
+            },
+            {
+              "text": "AI Engineering Advanced Certification by IIT- Roorkee CEC",
+              "href": "/iit-roorkee-advanced-ai-engineering-course/"
+            },
+            {
+              "text": "Online PGP in Business and AI",
+              "href": "/online-pgp-in-business-and-ai"
+            },
+            {
+              "text": "Masters in Advanced AI & Machine Learning",
+              "href": "/neovarsity/v2/"
+            },
+            {
+              "text": "Masters in Software Development",
+              "href": "/neovarsity"
+            }
+          ]
+        },
+        {
+          "heading": "Resources",
+          "links": [
+            {
+              "text": "Alumni Reviews",
+              "href": "/review/"
+            },
+            {
+              "text": "Blogs",
+              "href": "/blog/"
+            },
+            {
+              "text": "Contact Us",
+              "href": "/contact/"
+            },
+            {
+              "text": "Careers",
+              "href": "/careers/"
+            }
+          ]
+        }
+      ],
+      "allLinks": [
+        {
+          "text": "Modern Software and AI Engineering",
+          "href": "/academy/"
+        },
+        {
+          "text": "Modern Data Science and ML with Specialisation in AI",
+          "href": "/data-science-course/"
+        },
+        {
+          "text": "DevOps, Cloud & AI Platform Engineering",
+          "href": "/devops-course/"
+        },
+        {
+          "text": "Advanced AI & Machine Learning with Agentic AI",
+          "href": "/ai-machine-learning-course/"
+        },
+        {
+          "text": "AI Engineering Advanced Certification by IIT- Roorkee CEC",
+          "href": "/iit-roorkee-advanced-ai-engineering-course/"
+        },
+        {
+          "text": "Online PGP in Business and AI",
+          "href": "/online-pgp-in-business-and-ai"
+        },
+        {
+          "text": "Masters in Advanced AI & Machine Learning",
+          "href": "/neovarsity/v2/"
+        },
+        {
+          "text": "Masters in Software Development",
+          "href": "/neovarsity"
+        },
+        {
+          "text": "Alumni Reviews",
+          "href": "/review/"
+        },
+        {
+          "text": "Blogs",
+          "href": "/blog/"
+        },
+        {
+          "text": "Contact Us",
+          "href": "/contact/"
+        },
+        {
+          "text": "Careers",
+          "href": "/careers/"
+        },
+        {
+          "text": "About Us",
+          "href": "/about"
+        },
+        {
+          "text": "Become a Mentor",
+          "href": "/mentor"
+        },
+        {
+          "text": "Become a TA",
+          "href": "/teaching-assistant"
+        },
+        {
+          "text": "Hire From Us",
+          "href": "/enterprise"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "/terms"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "/privacy"
+        },
+        {
+          "text": "Youtube",
+          "href": "https://www.youtube.com/@SCALER"
+        },
+        {
+          "text": "LinkedIn",
+          "href": "https://www.linkedin.com/school/scalerofficial"
+        },
+        {
+          "text": "Facebook",
+          "href": "https://www.facebook.com/scalerofficial"
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/scaler_official/"
+        },
+        {
+          "text": "Twitter",
+          "href": "https://twitter.com/scaler_official"
+        },
+        {
+          "text": "Quora",
+          "href": "https://www.quora.com/What-is-your-review-of-Scaler-Academy"
+        },
+        {
+          "text": "Modern Data Science and ML with Specialisation in AI",
+          "href": "https://www.scaler.com/data-science-course/"
+        },
+        {
+          "text": "DevOps, Cloud & AI Platform Engineering",
+          "href": "https://www.scaler.com/devops-course/"
+        },
+        {
+          "text": "Full Stack Developer Course",
+          "href": "https://www.scaler.com/courses/full-stack-developer/"
+        },
+        {
+          "text": "Machine Learning Course",
+          "href": "https://www.scaler.com/courses/machine-learning-course-training/"
+        },
+        {
+          "text": "Data Structures and Algorithms (DSA) Course",
+          "href": "https://www.scaler.com/courses/data-structures-and-algorithms/"
+        },
+        {
+          "text": "Web Development Course",
+          "href": "https://www.scaler.com/courses/web-development/"
+        },
+        {
+          "text": "System Design Course",
+          "href": "https://www.scaler.com/courses/system-design/"
+        },
+        {
+          "text": "Data Structure Tutorial",
+          "href": "https://www.scaler.com/topics/data-structures/"
+        },
+        {
+          "text": "Python Tutorial",
+          "href": "https://www.scaler.com/topics/python/"
+        },
+        {
+          "text": "Java Tutorial",
+          "href": "https://www.scaler.com/topics/java/"
+        },
+        {
+          "text": "DBMS Tutorial",
+          "href": "https://www.scaler.com/topics/dbms/"
+        },
+        {
+          "text": "C Tutorial",
+          "href": "https://www.scaler.com/topics/c/"
+        },
+        {
+          "text": "JavaScript Tutorial",
+          "href": "https://www.scaler.com/topics/javascript/"
+        },
+        {
+          "text": "C++ Tutorial",
+          "href": "https://www.scaler.com/topics/cpp/"
+        },
+        {
+          "text": "Data Science Tutorial",
+          "href": "https://www.scaler.com/topics/data-science/"
+        },
+        {
+          "text": "CSS Tutorial",
+          "href": "https://www.scaler.com/topics/css/"
+        }
+      ],
+      "copyright": "©️ 2026 InterviewBit Software Services Pvt. Ltd. All Rights Reserved.",
+      "socialLinks": [
+        {
+          "platform": "https://www.youtube.com/@SCALER",
+          "text": "Youtube"
+        },
+        {
+          "platform": "https://www.linkedin.com/school/scalerofficial",
+          "text": "LinkedIn"
+        },
+        {
+          "platform": "https://www.facebook.com/scalerofficial",
+          "text": "Facebook"
+        },
+        {
+          "platform": "https://www.instagram.com/scaler_official/",
+          "text": "Instagram"
+        },
+        {
+          "platform": "https://twitter.com/scaler_official",
+          "text": "Twitter"
+        }
+      ]
+    },
+    "note": "These are exact DOM snapshots. Use header.navLinks for nav items, hero.h1.text for the headline, footer.columns for footer link groups, footer.copyright for copyright text. Do NOT invent any of this content."
+  },
+  "interactions": {
+    "hoverSweep": {
+      "note": "Mouse hovered over primary CTA. CSS recorded before and after.",
+      "before": {
+        "boxShadow": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)"
+      },
+      "after": {
+        "boxShadow": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "transform": "none",
+        "color": "rgb(0, 76, 229)"
+      },
+      "changed": {
+        "boxShadow": false,
+        "backgroundColor": false,
+        "transform": false,
+        "color": true
+      }
+    },
+    "animations": [
+      "marquee"
+    ]
+  },
+  "content": {
+    "headings": [
+      "Become the Professional Built for the Next Decade in AI.",
+      "Built Different, Designed to Last",
+      "AI-Integrated Curriculum",
+      "AI Powered Platform",
+      "Lifelong Learning Access",
+      "Strong Foundations",
+      "Find the AI Path for your role",
+      "Modern Software & AI Engineering",
+      "Modern Software & AI Engineering",
+      "Modern Data Science and ML with Specialisation in AI",
+      "DevOps, Cloud & AI Platform Engineering specialisation in MLOps and Cybersecurity",
+      "Advanced AIML with Specialisation in Agentic AI"
+    ],
+    "paragraphs": [
+      "Become the Professional Built for the Next Decade in AI.",
+      "The investment that compounds.\nStrong technical foundations, AI integrated at every stage, and a curriculum that evolves as the market does",
+      "Check how AI-Ready is your profile",
+      "Four things no other program gives you",
+      "AI-integrated curriculum. Every phase is structured around how the best technical teams work today , with AI embedded in how problems are framed, built, and shipped. Updated quarterly",
+      "AI-assisted coding woven into every lab, assignment, and DSA problem with a 24×7 AI Companion that hints, critiques, and pair-programs alongside you. Specialisation in Generative AI included",
+      "The curriculum moves as the market does. When the industry shifts, your knowledge shifts with it at no extra cost. You're not buying a 2026 snapshot. You're buying a living system. Built to last",
+      "The things that matter in software don't change as fast as the headlines. DSA. System design. Engineering judgment. AI makes those fundamentals hit harder not the other way around Depth that doesn't expire"
+    ],
+    "images": [
+      "./images/asset-1.svg",
+      "./images/asset-2.svg",
+      "./images/asset-3.png",
+      "./images/asset-4.webp",
+      "./images/asset-5.webp",
+      "./images/asset-6.webp",
+      "./images/asset-7.webp",
+      "./images/asset-8.png"
+    ],
+    "bodyText": "The investment that compounds.\nStrong technical foundations, AI integrated at every stage, and a curriculum that evolves as the market does"
+  }
+}

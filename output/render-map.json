@@ -1,0 +1,462 @@
+{
+  "meta": {
+    "url": "https://www.scaler.com/",
+    "title": "Become the Professional Built for the Next Decade in AI.",
+    "capturedAt": "2026-05-04T22:35:09.459Z",
+    "fontsStatus": "loaded"
+  },
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "devicePixelRatio": 1
+  },
+  "documentMetrics": {
+    "scrollWidth": 1440,
+    "scrollHeight": 15411,
+    "bodyWidth": 1440,
+    "bodyHeight": 15411
+  },
+  "keyNodes": [
+    {
+      "name": "header",
+      "selector": "nav.sticky",
+      "exists": true,
+      "text": "PROGRAM\n\nONLINE PROGRAMS\n\nModern Software and AI Engineering Program\n\nModern Data Science and ML with specialisation in AI\n\nMasters In Software Development\n\nMas",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 65,
+        "top": 0,
+        "left": 0,
+        "right": 1440,
+        "bottom": 65
+      },
+      "styles": {
+        "display": "block",
+        "position": "sticky",
+        "zIndex": "50",
+        "width": "1440px",
+        "height": "65px",
+        "margin": "0px",
+        "padding": "0px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textAlign": "start",
+        "border": "",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "transform": "none",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "hero",
+      "selector": "#d8d6352d-f68d-4e44-9108-4031a4a98f43",
+      "exists": true,
+      "text": "THE MARKET HAS ALREADY CHANGED\n\nBecome the Professional Built for the Next Decade in AI.\n\nThe investment that compounds.\nStrong technical foundations, AI integr",
+      "rect": {
+        "x": 0,
+        "y": 65,
+        "width": 1440,
+        "height": 753.78,
+        "top": 65,
+        "left": 0,
+        "right": 1440,
+        "bottom": 818.78
+      },
+      "styles": {
+        "display": "block",
+        "position": "static",
+        "zIndex": "auto",
+        "width": "1440px",
+        "height": "753.781px",
+        "margin": "0px",
+        "padding": "0px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textAlign": "start",
+        "border": "0px solid rgb(228, 228, 228)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "transform": "none",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "hero_h1",
+      "selector": "h1.font-serif",
+      "exists": true,
+      "text": "Become the Professional Built for the Next Decade in AI.",
+      "rect": {
+        "x": 221.5,
+        "y": 161,
+        "width": 997,
+        "height": 331.78,
+        "top": 161,
+        "left": 221.5,
+        "right": 1218.5,
+        "bottom": 492.78
+      },
+      "styles": {
+        "display": "block",
+        "position": "static",
+        "zIndex": "auto",
+        "width": "997px",
+        "height": "331.781px",
+        "margin": "0px",
+        "padding": "0px",
+        "color": "rgb(1, 24, 69)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontSize": "90px",
+        "fontWeight": "500",
+        "lineHeight": "90px",
+        "letterSpacing": "normal",
+        "textAlign": "start",
+        "border": "0px solid rgb(228, 228, 228)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "transform": "none",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "hero_paragraph",
+      "selector": "p",
+      "exists": true,
+      "text": "The investment that compounds.\nStrong technical foundations, AI integrated at every stage, and a curriculum that evolves as the market does",
+      "rect": {
+        "x": 293.33,
+        "y": 516.78,
+        "width": 853.34,
+        "height": 52,
+        "top": 516.78,
+        "left": 293.33,
+        "right": 1146.67,
+        "bottom": 568.78
+      },
+      "styles": {
+        "display": "block",
+        "position": "static",
+        "zIndex": "auto",
+        "width": "853.344px",
+        "height": "52px",
+        "margin": "0px",
+        "padding": "0px",
+        "color": "rgb(33, 33, 33)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textAlign": "center",
+        "border": "0px solid rgb(228, 228, 228)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "transform": "none",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "hero_button_primary",
+      "selector": "a.shrink-0",
+      "exists": true,
+      "text": "Modern Software and AI engineering",
+      "rect": {
+        "x": -60.75,
+        "y": 626.78,
+        "width": 244.92,
+        "height": 24,
+        "top": 626.78,
+        "left": -60.75,
+        "right": 184.17,
+        "bottom": 650.78
+      },
+      "styles": {
+        "display": "block",
+        "position": "static",
+        "zIndex": "auto",
+        "width": "244.922px",
+        "height": "24px",
+        "margin": "0px",
+        "padding": "0px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textAlign": "start",
+        "border": "0px solid rgb(228, 228, 228)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "transform": "none",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "hero_button_secondary",
+      "selector": "a.shrink-0",
+      "exists": true,
+      "text": "Modern Data Science and ML with Specialisation in AI",
+      "rect": {
+        "x": 208.17,
+        "y": 626.78,
+        "width": 355.42,
+        "height": 24,
+        "top": 626.78,
+        "left": 208.17,
+        "right": 563.59,
+        "bottom": 650.78
+      },
+      "styles": {
+        "display": "block",
+        "position": "static",
+        "zIndex": "auto",
+        "width": "355.422px",
+        "height": "24px",
+        "margin": "0px",
+        "padding": "0px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textAlign": "start",
+        "border": "0px solid rgb(228, 228, 228)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "transform": "none",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "footer",
+      "selector": "footer.border-t",
+      "exists": true,
+      "text": "Interviewbit Software Services Private Limited 5th Floor, Surya Park II 14,\n3rd cross, Parappana Agrahar\nElectronic City Rd, Electronics City Phase 1\nBengaluru,",
+      "rect": {
+        "x": 0,
+        "y": 14575.73,
+        "width": 1440,
+        "height": 835.5,
+        "top": 14575.73,
+        "left": 0,
+        "right": 1440,
+        "bottom": 15411.23
+      },
+      "styles": {
+        "display": "block",
+        "position": "static",
+        "zIndex": "auto",
+        "width": "1440px",
+        "height": "835.5px",
+        "margin": "0px",
+        "padding": "0px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(250, 250, 250)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textAlign": "start",
+        "border": "",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "transform": "none",
+        "opacity": "1"
+      }
+    }
+  ],
+  "sectionRects": [
+    {
+      "index": 0,
+      "selector": "section",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 0,
+        "top": 0,
+        "left": 0,
+        "right": 1440,
+        "bottom": 0
+      },
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "index": 1,
+      "selector": "#d8d6352d-f68d-4e44-9108-4031a4a98f43",
+      "rect": {
+        "x": 0,
+        "y": 65,
+        "width": 1440,
+        "height": 753.78,
+        "top": 65,
+        "left": 0,
+        "right": 1440,
+        "bottom": 818.78
+      },
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "index": 2,
+      "selector": "#48d4578c-0c37-47fa-be94-2a35136419bb",
+      "rect": {
+        "x": 0,
+        "y": 818.78,
+        "width": 1440,
+        "height": 812,
+        "top": 818.78,
+        "left": 0,
+        "right": 1440,
+        "bottom": 1630.78
+      },
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "index": 3,
+      "selector": "#8a5bc48e-fb22-4069-88c4-037ce9ade042",
+      "rect": {
+        "x": 0,
+        "y": 1630.78,
+        "width": 1440,
+        "height": 162,
+        "top": 1630.78,
+        "left": 0,
+        "right": 1440,
+        "bottom": 1792.78
+      },
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "index": 4,
+      "selector": "#whyscaler",
+      "rect": {
+        "x": 0,
+        "y": 1792.78,
+        "width": 1440,
+        "height": 700,
+        "top": 1792.78,
+        "left": 0,
+        "right": 1440,
+        "bottom": 2492.78
+      },
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "index": 5,
+      "selector": "section.relative",
+      "rect": {
+        "x": 0,
+        "y": 1792.78,
+        "width": 1440,
+        "height": 700,
+        "top": 1792.78,
+        "left": 0,
+        "right": 1440,
+        "bottom": 2492.78
+      },
+      "backgroundColor": "rgb(0, 35, 110)"
+    },
+    {
+      "index": 6,
+      "selector": "#c37f77d7-4662-4972-908d-4ca66ca4255e",
+      "rect": {
+        "x": 0,
+        "y": 2492.78,
+        "width": 1440,
+        "height": 162,
+        "top": 2492.78,
+        "left": 0,
+        "right": 1440,
+        "bottom": 2654.78
+      },
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "index": 7,
+      "selector": "#program",
+      "rect": {
+        "x": 0,
+        "y": 2654.78,
+        "width": 1440,
+        "height": 1146,
+        "top": 2654.78,
+        "left": 0,
+        "right": 1440,
+        "bottom": 3800.78
+      },
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "index": 8,
+      "selector": "#reviews",
+      "rect": {
+        "x": 0,
+        "y": 3800.78,
+        "width": 1440,
+        "height": 1362.98,
+        "top": 3800.78,
+        "left": 0,
+        "right": 1440,
+        "bottom": 5163.77
+      },
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "index": 9,
+      "selector": "#instructor",
+      "rect": {
+        "x": 0,
+        "y": 5163.77,
+        "width": 1440,
+        "height": 941.95,
+        "top": 5163.77,
+        "left": 0,
+        "right": 1440,
+        "bottom": 6105.72
+      },
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "index": 10,
+      "selector": "#podcast",
+      "rect": {
+        "x": 0,
+        "y": 6105.72,
+        "width": 1440,
+        "height": 779.8,
+        "top": 6105.72,
+        "left": 0,
+        "right": 1440,
+        "bottom": 6885.52
+      },
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "index": 11,
+      "selector": "#usp",
+      "rect": {
+        "x": 0,
+        "y": 6885.52,
+        "width": 1440,
+        "height": 4518,
+        "top": 6885.52,
+        "left": 0,
+        "right": 1440,
+        "bottom": 11403.52
+      },
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  ]
+}
