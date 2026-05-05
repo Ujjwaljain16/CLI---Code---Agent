@@ -1,0 +1,29 @@
+{
+  "name": "scaler-agent",
+  "version": "1.0.0",
+  "description": "AI Agent CLI Tool for cloning Scaler Academy website",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "cli",
+    "agent",
+    "react",
+    "gemini",
+    "scaler"
+  ],
+  "author": "Ujjwal Jain",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "open": "^9.1.0",
+    "ora": "^8.0.1",
+    "puppeteer": "^24.42.0"
+  }
+}
